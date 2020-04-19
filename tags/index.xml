@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | CV Online</title>
-    <link>https://tientranzt.github.io/tags/</link>
-      <atom:link href="https://tientranzt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | CV Tran Hoang Tien</title>
+    <link>https://tientranzt.github.io/cv.github.io/tags/</link>
+      <atom:link href="https://tientranzt.github.io/cv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>https://tientranzt.github.io/tags/</link>
+      <link>https://tientranzt.github.io/cv.github.io/tags/</link>
     </image>
     
   </channel>
